@@ -1,7 +1,7 @@
 
 <div align = "center">
 
- <h1> 💫 EugeoRay is White Hacker & Cyber Security Expert & Malware Analysis. 💫 </h1>
+ <h1> 💫 EugeoRay is White Hacker & Malware Analysis. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Eugeo%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
