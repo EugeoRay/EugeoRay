@@ -1,7 +1,7 @@
 
 <div align = "center">
 
- <h1> 💫 EugeoRay is White Hacker & Malware Analysis. 💫 </h1>
+ <h1> 💫 EugeoRay is White Hacker & Security Researcher. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Eugeo%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
@@ -18,12 +18,11 @@
 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
-- 화이트해커 / 정보보안 전문가 / 시스템 모의해킹 전문가 / 정보보안 컨설턴트 / 악성코드 분석가 / 침해사고 분석가 / 보안 소프트웨어 개발자로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 블록체인 소프트웨어 & 인공지능 개발자로 나아가는 Dreamer.
 
-  - 최대한 많은 시스템 해킹 분야 및 커널 취약점 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+  - 최대한 많은 해킹 분야 및 취약점 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows System Hacking, Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Yara Rules, V8 Browser Exploit, LLM Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Artificial Intelligence OS Kernel Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development,...
-
+### Smart Contract Hacking, Webhacking, Black-Box Penetration Testing with PETS, Cloud Hacking (Docker, Kubernetes), Mobile Application Hacking (Android, IOS), Artificial Intelligence Hacking, LLM Hacking, Mobile Security Application Development, Artificial Intelligence Security Software Development, Cryptography, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Artificial Intelligence Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Artificial Intelligence Web3 Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Mobile Application Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Server Infra Security, Mobile Application Development, Artificial Intelligence Development, Front-end Development, Back-end Development, Smart Contract Software Development, Hyperledger Fabric Software Development,...
 <hr>
 
 ## 🛠 Server Skills
